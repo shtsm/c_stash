@@ -43,6 +43,12 @@ header {
     width: 810px;
     margin: 60px auto 60px auto;
 }
+@media screen and (max-width: 768px) {
+      #apps #list {
+        width: 270px !important;
+        margin: 60px auto 0px auto !important;
+      }
+}
 #apps #list:after {
     content: "";
     display: block;
