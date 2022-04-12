@@ -84,15 +84,15 @@ header {
     float: left;
     display: block;
     height:24px;
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-bottom: -20px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: -23px;
     text-align: center;
     font-size: 12px;
     color: #707070;
     text-decoration: none;
     background-color: #ffffff;
-    border-radius: 12px 12px 12px 12px;
+    border-radius: 6px 6px 6px 6px;
 }
 #about #list:after {
     content: "";
@@ -106,7 +106,7 @@ header {
     text-align: center;
 }
 #suport #list {
-    width: 320px;
+    width: 480px;
     margin: 0px auto 0px auto;
 }
 #suport #list div {
