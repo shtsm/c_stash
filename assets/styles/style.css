@@ -48,6 +48,13 @@ header {
         width: 270px !important;
         margin: 60px auto 0px auto !important;
       }
+      #suport #list {
+        width: 150px !important;
+        margin: 0px auto 0px auto !important;
+      }
+      #suport #list div {
+          margin: auto auto 20px auto !important;
+      }
 }
 #apps #list:after {
     content: "";
